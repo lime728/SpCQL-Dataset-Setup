@@ -48,6 +48,12 @@ Remove `#` in front of `dbms.allow_upgrade=true`
 
 Restart neo4j service and wait merging.
 
+## Final
+[SpCQL.dump](https://pan.baidu.com/s/1xt7R18VIlqlXIxqMIlE2Rw?pwd=8ec4) is available by using this method.
+```bash
+neo4j-admin dump --database=neo4j --to=./SpCQL.dump
+```
+Take if need.
 
 ## Reference
 ```bash
